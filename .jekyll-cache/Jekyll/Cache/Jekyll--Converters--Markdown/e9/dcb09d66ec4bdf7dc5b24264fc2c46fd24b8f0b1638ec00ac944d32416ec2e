@@ -1,0 +1,22 @@
+I"<h2 id="upgrading-to-latest-version">Upgrading to Latest Version</h2>
+<p>The ACT Network is currently using either i2b2 version 1.7.09C or 1.7.11. The network is expected to move to i2b2 1.7.12 in Q1 of 2020. Sites currently operating under 1.7.09C will upgrade directly to 1.7.12. Further information will be distributed across the listserv to ensure sites upgrade at the appropriate time.</p>
+
+<p>Files and instructions for completing the upgrading process to the latest version of i2b2 (1.7.12) can be found <a href="https://community.i2b2.org/wiki/display/RM/Upgrade+to+latest+version">here</a>.</p>
+
+<h2 id="installing-i2b2">Installing i2b2</h2>
+<p>Some sites may be installing the i2b2 server for the first time. Files and instructions for completing the initial installation process of 1.7.11 can be found <a href="https://community.i2b2.org/wiki/display/getstarted/i2b2+Installation+Guide">here</a>.</p>
+
+<h2 id="release-notes">Release Notes</h2>
+<p>Release notes for the most current version of i2b2 (1.7.11) can be found <a href="https://www.i2b2.org/software/releaseNotes_current.pdf">here</a>.</p>
+
+<h2 id="i2b2-support">i2b2 Support</h2>
+<h3 id="installation-support">Installation Support</h3>
+<p>Please click <a href="https://groups.google.com/forum/#!forum/i2b2-install-help">here</a> to navigate to the Google group that focuses on i2b2 installation support.</p>
+
+<h3 id="i2b2-act-wiki">i2b2 ACT Wiki</h3>
+<p>i2b2 has a Wiki dedicated to the ACT Network, which can be found <a href="https://community.i2b2.org/wiki/display/ACT/Accrual+to+Clinical+Trials+i2b2+Community+Wiki">here</a>.</p>
+
+<h3 id="additional-help">Additional Help</h3>
+<p>Additional help resources, including the ACT Jira page, listserv, and key contacts can be found <a href="/ACT-test/help.html">here</a>.</p>
+
+:ET

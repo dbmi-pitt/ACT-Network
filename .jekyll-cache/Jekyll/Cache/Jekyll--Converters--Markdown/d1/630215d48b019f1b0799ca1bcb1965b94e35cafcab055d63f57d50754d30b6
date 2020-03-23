@@ -1,0 +1,28 @@
+I"í<h2 id="act-pre-production-checklist">ACT Pre-Production Checklist</h2>
+<p>Prior to being connected to the ACT Production tier, sites connected to the Stage Tier must confirm the following items in the <a href="https://docs.google.com/spreadsheets/d/1gss08lLkYKdiS0H9yjAhbn8-r0TvS2JYba3yyignboY/edit?usp=sharing">ACT Pre-Production Checklist</a>. It is expected that sites will continue to cross items off as they are completed.</p>
+
+<h2 id="implementation-tasks">Implementation Tasks</h2>
+<p>The <a href="https://docs.google.com/spreadsheets/d/1UHdPfeOHFoAjAo7tHVsEMLQ7lMXhaYbieaK2ptagSXQ/edit?usp=sharing">Implementation Task Timeline</a> highlights the various tasks that must be completed for onboarding, their suggested site functions, and estimated time to completion. This also includes an introduction to the smoke test query components and possible results.</p>
+
+<h2 id="governance-documentation">Governance Documentation</h2>
+<p>A link to the folder containing all the governance documentation can be found <a href="https://pitt.box.com/s/3x4i4jmc6buers8sv0bwwznf8p47xlw6">here</a>. This includes the following documents:</p>
+<ul>
+  <li>ACT Network Operating Procedures</li>
+  <li>ACT Standard Operating Procedures</li>
+  <li>NCATS ACT Governance</li>
+  <li>ACT Terms of Query Access</li>
+</ul>
+
+<h2 id="regulatory-documentation">Regulatory Documentation</h2>
+<p>A link to the folder containing all the regulatory documentation can be found <a href="https://pitt.box.com/s/dre0xrjde8f2hpdkztkh0lix75f29muy">here</a>. This includes the following documents:</p>
+<ul>
+  <li>NCATS ACT i2b2 SHRINE Repository Protocol</li>
+  <li>NCATS Regulatory Guidance Overview</li>
+  <li>NCATS Non-Human Subjects Research Activity</li>
+</ul>
+
+<h2 id="helpful-resources">Helpful Resources</h2>
+<h3 id="act-onboarding-project">Act OnBoarding Project</h3>
+<p>All onboarding sites are asked to keep their information up to date in the <a href="https://actnetwork.atlassian.net/projects/AOB/board">ACT Onboarding JIRA Project</a>. This project is used to monitor sitesâ€™ statuses on the various technical and administrative tasks required to successfully onboard to the network. Sites are asked to update their information on a bi-weekly basis and create a ticket for any issues encountered.</p>
+
+:ET

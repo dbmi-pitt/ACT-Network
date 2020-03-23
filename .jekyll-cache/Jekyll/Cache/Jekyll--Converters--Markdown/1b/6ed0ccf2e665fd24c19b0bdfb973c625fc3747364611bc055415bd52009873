@@ -1,0 +1,75 @@
+I"§<h2 id="current-ontology-version">Current Ontology Version</h2>
+<p>The ACT Network is currently using ACT Ontology 2.0.1, which rolled out through all active and staging ACT sites in 2019. This new version provides a substantial increase in the available data elements, including CPT, HCPCS, ICD10 procedures, a full set of LOINC codes and additional medications.</p>
+
+<p>A summary overview of the changes made can be found <a href="https://www.actnetwork.us/Global/FileLib/PDFs/ACT_ONTOLOGY_V2.0.1_final.pdf">here</a>.</p>
+
+<h3 id="release-notes"><strong>Release Notes</strong></h3>
+<p><strong>NEW Ontologies</strong></p>
+<ul>
+  <li>CPT Procedures - UMLS 2018AA (Remember only sites that have valid CPT licenses are permitted to use CPT ontology)</li>
+  <li>HCPCS Procedures - UMLS 2018AA</li>
+  <li>ICD10 PCS Procedures - UMLS 2018AA</li>
+  <li>ICD10 CM Diagnosis - UMLS 2018AA</li>
+  <li>Labs LOINC Provisional - Full LOINC tree - UMLS 2018AA LOINC V2.63</li>
+  <li>Medications by Ingredient - Hybrid UMLS 2018AA RxNorm? files and RxNav?</li>
+</ul>
+
+<p><strong>Updated Ontologies</strong></p>
+<ul>
+  <li>ICD9 Diagnosis - UMLS 2018AA modified format. Ordered by code.</li>
+  <li>ICD9 Procedures - UMLS 2018AA modified format. Ordered by code.</li>
+  <li>Medication by VA Class - RxNav? NDFRT and RxNorm? APIs updated to September 2018</li>
+  <li>Demographics - Added Adult &gt;= 18 and Child &lt; 18 terms</li>
+</ul>
+
+<p><strong>Unchanged</strong></p>
+<ul>
+  <li>ICD10/ICD9 Integrated - Curated UMLS 2015AB</li>
+  <li>Visit Details</li>
+  <li>Lab - Curated Approx. 300 Labs</li>
+</ul>
+
+<p><strong>Other Updated Files</strong></p>
+<ul>
+  <li>Schemes</li>
+  <li>Table Access</li>
+  <li>SHRINE Adapter Mapping</li>
+</ul>
+
+<p><strong>Breakdown</strong> (coming soon)</p>
+
+<h2 id="ontology-scripts">Ontology Scripts</h2>
+<p><strong>ACT Ontology Modifier Removal:</strong> The Oracle script to remove modifiers can be found <a href="https://pitt.box.com/s/zqnavsqx9j01dl2xtue9zsv4es43bh4a">here</a>.</p>
+
+<h2 id="ontology-installation">Ontology Installation</h2>
+<p>All of the ontology installation files can be found in <a href="https://pitt.box.com/s/qoj5afssw4oz3v27ipmfidhitmgya9nt">this repository</a>. The ontology archive and its associated files can be accessed <a href="https://pitt.box.com/s/puou2vkwy371gv2mfypadjplymb14gvd">here</a>.</p>
+
+<p>Installation instructions for the current ontology can be found <a href="https://pitt.box.com/s/jf2mupczvclzzxtmfvdd6pn1bytg1z1v">here</a>.</p>
+
+<h2 id="current-ontology-documentation">Current Ontology Documentation</h2>
+<ul>
+  <li><a href="https://pitt.box.com/s/nuoueqadkcuhq6oqxbg3rsmg0kcaqcyo">ACT Common Data Model ACT Common Data Model V1.7</a></li>
+  <li><a href="https://pitt.box.com/s/ovkqhwhg6hhqv83hqp522wix0hsysr2k">ACT SHRINE Query Ontology Specification ACT SHRINE Query Ontology Specification</a></li>
+  <li><a href="https://pitt.box.com/s/eg528mhbwb20fnp5mntgf5une8rv7zcp">ACT ETL Quick Reference</a></li>
+</ul>
+
+<h2 id="data-harmonization">Data Harmonization</h2>
+<p>Outputs and work products from the Data Harmonization Workgroup can be found <a href="/ACT-test/data_harmonization.html">here</a>.</p>
+
+<h2 id="ontology-archive">Ontology Archive</h2>
+<p>Archived ontology documentation can be found in <a href="https://pitt.box.com/s/puou2vkwy371gv2mfypadjplymb14gvd">this repository</a>.</p>
+
+<h2 id="ontology-demo-server">Ontology Demo Server</h2>
+<p>ACT ontology on <a href="http://dbmi-ncats-test01.dbmi.pitt.edu/webclient/">i2b2 Web Client </a></p>
+
+<p><strong>Username:</strong> demo</p>
+
+<p><strong>Password:</strong> demouser</p>
+
+<h2 id="ontology-training-material">Ontology Training Material</h2>
+<p><a href="https://www.youtube.com/watch?v=0gF2yt1NBls&amp;feature=youtu.be">i2b2 Transmart Training Program - Ontology For Beginners</a> - Mike Mendis</p>
+
+<h2 id="contact-information">Contact Information</h2>
+<p>For additional information, please contact Michele Morris at <a href="mailto:mim18@pitt.edu">mim18@pitt.edu</a>.</p>
+
+:ET

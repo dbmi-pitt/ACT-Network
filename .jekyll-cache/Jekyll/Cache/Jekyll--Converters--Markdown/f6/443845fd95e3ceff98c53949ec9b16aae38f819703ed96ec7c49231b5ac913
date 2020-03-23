@@ -1,0 +1,41 @@
+I"<h2 id="current-software-versions">Current Software Versions</h2>
+<p><strong>i2b2 Version:</strong> 1.7.09c or 1.7.11</p>
+
+<p><strong>SHRINE Version:</strong> 2.0 as of October 2019</p>
+
+<p><strong>Ontology Version:</strong> 2.0.1 as of March 27, 2019</p>
+
+<h2 id="staging-network-information">Staging Network Information</h2>
+<p><strong>Hostname:</strong> shrine-act-stage.hms.harvard.edu</p>
+
+<p><strong>IP:</strong> 134.174.149.156</p>
+
+<p>Port 6443</p>
+
+<h2 id="production-network-information">Production Network Information</h2>
+<p><strong>Hostname:</strong> shrine-act.hms.harvard.edu</p>
+
+<p><strong>IP:</strong> 134.174.149.152</p>
+
+<p>Port: 6443</p>
+
+<h2 id="technology-stacks">Technology Stacks</h2>
+<p>These pages contain all available resources for <a href="/ACT-test/i2b2.html">i2b2</a> and <a href="/ACT-test/shrine.html">SHRINE</a>. This includes installation files, upgrade files, documentation, and release notes.</p>
+
+<h2 id="ontology">Ontology</h2>
+<p>All ontology resources (including ontology files, ETL, documentation, and release notes) can be found <a href="/ACT-test/ontology.html">here</a>.</p>
+
+<h2 id="act-project-management-information">ACT Project Management Information</h2>
+<p>Project management information, including timeline, governance and regulatory guidance, and other information can be found <a href="/ACT-test/project_managers.html">here</a>.</p>
+
+<h2 id="resources">Resources</h2>
+<h3 id="jira">JIRA</h3>
+<p>The <a href="https://actnetwork.atlassian.net/projects/AOB/summary">ACT On Boarding JIRA page</a> is used to track sites’ progress through the various onboarding tasks. Sites are asked to update their progress on a bi-weekly basis through either updating the task information or commenting on the task items.</p>
+
+<h3 id="trainings-and-demonstrations">Trainings and Demonstrations</h3>
+<p>The trainings and demonstrations page can be found <a href="/ACT-test/trainings.html">here</a>.</p>
+
+<h3 id="help">Help</h3>
+<p>All other help resources can be found <a href="/ACT-test/help.html">here</a>.</p>
+
+:ET

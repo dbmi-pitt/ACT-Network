@@ -1,0 +1,34 @@
+I"j<h2 id="current-software-versions">Current Software Versions</h2>
+<p><strong>i2b2 Version:</strong> 1.7.09c or 1.7.11</p>
+
+<p><strong>SHRINE Version:</strong> 2.0 As of October 2019</p>
+
+<p><strong>Ontology Version:</strong> 2.0.1 as of March 27, 2019</p>
+
+<h2 id="staging-network-information">Staging Network Information</h2>
+<p><strong>Hostname:</strong> shrine-act.hms.harvard.edu</p>
+
+<p><strong>IP:</strong> 134.174.149.152</p>
+
+<p>Port 6443</p>
+
+<h2 id="technology-stacks">Technology Stacks</h2>
+<p>These pages contain all available resources for <a href="/ACT-test/i2b2.html">i2b2</a> and <a href="/ACT-test/shrine.html">SHRINE</a>. This includes installation files, upgrade files, documentation, and release notes.</p>
+
+<h2 id="ontology">Ontology</h2>
+<p>All ontology resources (including ontology files, ETL, documentation, and release notes) for ontology V2.0.1 can be found <a href="/ACT-test/ontology.html">here</a>.</p>
+
+<h2 id="site-role-resources">Site Role Resources</h2>
+<p>Below are the resources for the various local ACT roles:</p>
+<ul>
+  <li><a href="/ACT-test/project_managers.html">Project Managers</a></li>
+  <li><a href="/ACT-test/data_stewards.html">Data Stewards and Facilitators</a></li>
+  <li><a href="/ACT-test/regulatory.html">Regulatory/Governance</a></li>
+  <li><a href="/ACT-test/system_administrators.html">System Administrators</a></li>
+  <li><a href="/ACT-test/data_curators.html">Data Curators</a></li>
+</ul>
+
+<h2 id="help">Help</h2>
+<p>There are various avenues available to ask for and provide help amongst the network. These helpful resources can be found <a href="/ACT-test/help.html">here</a>.</p>
+
+:ET

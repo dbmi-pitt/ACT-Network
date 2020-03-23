@@ -1,0 +1,162 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Navigation
+  version: 
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Overview
+    output: web, pdf
+    folderitems:
+
+    - title: ACT Informational Links
+      url: /informational_links.html
+      output: web, pdf
+      
+    - title: Roadmap & Deadlines
+      url: /roadmap.html
+      output: web, pdf
+
+    - title: Trainings & Demonstrations
+      url: /trainings.html
+      output: web, pdf
+ 
+    - title: Use Cases
+      url: /use_cases.html
+      output: web, pdf
+
+  - title: Resources by Role
+    output: web, pdf
+    folderitems:
+
+    - title: Project Managers
+      url: /project_managers.html
+      output: web, pdf
+
+    - title: Data Stewards & Facilitators
+      url: /data_stewards.html
+      output: web, pdf
+      
+    - title: Regulatory & Governance
+      url: /regulatory.html
+      output: web, pdf
+      
+    - title: System Administrators
+      url: /system_administrators.html
+      output: web, pdf
+      
+    - title: Data Curators
+      url: /data_curators.html
+      output: web 
+
+  - title: Networks
+    output: web, pdf
+    folderitems:
+
+    - title: Production
+      url: /production.html
+      output: web, pdf
+
+    - title: Stage
+      url: /stage.html
+      output: web, pdf
+
+    - title: Test
+      url: /test.html
+      output: web, pdf
+
+    - title: Pre-Stage
+      url: /prestage.html
+      output: web, pdf
+
+  - title: Technology Stacks
+    output: web, pdf
+    folderitems:
+    
+    - title: SHRINE
+      url: /shrine.html
+      output: web, pdf
+
+    - title: i2b2
+      url: /i2b2.html
+      output: web, pdf
+
+    - title: Ontology
+      url: /ontology.html
+      output: web, pdf
+      
+    - title: ETL
+      url: /etl.html
+      output: web, pdf
+
+  - title: Work Groups
+    output: web, pdf     
+
+    folderitems:
+    - title: Data Harmonization
+      url: /data_harmonization.html
+      output: web, pdf
+
+    - title: Regulatory
+      url: /regulatory_wg.html
+      output: web, pdf
+
+    - title: Technology
+      url: /technology.html
+      output: web, pdf
+
+    - title: Governance
+      url: /governance.html
+      output: web, pdf
+      
+    - title: Dissemination
+      url: /dissemination.html
+      output: web, pdf
+
+  - title: Contacts & Mailing Lists
+    output: web, pdf
+    folderitems:
+    
+    - title: Key Contacts
+      url: /contacts.html
+      output: web, pdf
+      
+      subfolders:
+      - title: Mailing Lists
+        output: web
+        subfolderitems:
+
+        - title: Technology Listserv
+          url: /tech_list.html
+          output: web
+
+        - title: Data Steward Listserv
+          url: /ds_list.html
+          output: web
+
+  - title: Helpful Resources
+    output: web, pdf
+    folderitems: 
+
+    - title: Knowledge Sharing
+      url: /knowledge_archive.html
+      output: web, pdf
+
+    - title: Help
+      url: /help.html
+      output: web, pdf
+   

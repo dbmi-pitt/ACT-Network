@@ -1,0 +1,43 @@
+I"—<table>
+  <thead>
+    <tr>
+      <th>Task</th>
+      <th style="text-align: center">Site</th>
+      <th style="text-align: center">Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Upgrade to i2b2 1.7.12</td>
+      <td style="text-align: center">All</td>
+      <td style="text-align: center">Q1 2020</td>
+    </tr>
+    <tr>
+      <td>Connect to Production Hub</td>
+      <td style="text-align: center">Wave 5</td>
+      <td style="text-align: center">12/17/19</td>
+    </tr>
+    <tr>
+      <td>Complete production readiness tasks</td>
+      <td style="text-align: center">Wave 5</td>
+      <td style="text-align: center">12/09/19</td>
+    </tr>
+    <tr>
+      <td>Complete production technical tasks</td>
+      <td style="text-align: center">Wave 5</td>
+      <td style="text-align: center">12/09/19</td>
+    </tr>
+    <tr>
+      <td>Complete administrative tasks</td>
+      <td style="text-align: center">Wave 5</td>
+      <td style="text-align: center">12/02/19</td>
+    </tr>
+    <tr>
+      <td>Complete stage technical tasks</td>
+      <td style="text-align: center">Wave 5</td>
+      <td style="text-align: center">10/07/19</td>
+    </tr>
+  </tbody>
+</table>
+
+:ET

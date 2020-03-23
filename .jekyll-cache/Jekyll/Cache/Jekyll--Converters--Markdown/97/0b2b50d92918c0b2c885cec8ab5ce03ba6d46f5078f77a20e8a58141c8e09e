@@ -1,0 +1,21 @@
+I"�<p>Thank you for your interest in adding to the ACT Network Knowledge Archive! This space is for sharing any helpful tricks, tips, or experiences. Each idea will be added as a separate post and the appropriate author will be acknowledged. This archive is permanent and searchable for other ACT Network members.</p>
+
+<p>There are three ways through which one can add knowledge to the knowledge archive:</p>
+
+<p><strong>1)</strong> Send an email to Paige Ottmar at <a href="mailto:pottmar@chartis.com">pottmar@chartis.com</a> with the content you wish to be shared. She will create the archive post for you and attribute you as the author.</p>
+
+<p><strong>2)</strong> Submit a ticket on the <a href="https://actnetwork.atlassian.net/projects/ACT/board">ACT Network Project page</a> with the title and description of your post. Select Paige Ottmar as the assignee of the ticket. She will create the archive post for you and attribute you as the author.</p>
+
+<p><strong>3)</strong> Click <a href="https://github.com/pottmar/ACT-test/tree/gh-pages/_posts">here</a> to access the GitHub of the ACT Network and create your own post. You create a post by adding a file in this folder that is named yyyy-mm-dddd-permalink.md. Here “permalink” would be a brief description or title for your post.</p>
+
+<p>The front matter you can use with posts is as follows:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>---
+title: title of your post
+keywords: any relevant keywords for searching purposes (separated by commas)
+sidebar: mydoc_sidebar (this must be kept as-is)
+permalink: yyyy-mm-dddd-permalink.html
+summary: A brief (1-2 sentence) summary of your post in quotation marks.
+---
+</code></pre></div></div>
+:ET
