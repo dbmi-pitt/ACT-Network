@@ -18,6 +18,6 @@ Please visit the [National ACT Network page](https://www.actnetwork.us/national)
 The ACT technology distribution mailing list is routinely used for both those looking to share and gather information. Click [here](/ACT-test/tech_list.html) for instructions on how to join and/or search the archived technology listserv. 
 
 ## Key Contacts
-All key contacts for the ACT Network can be found [here](/ACT-test/contacts.html). 
+All key contacts for the ACT Network can be found [here](/ACT-Network/contacts.html). 
 
 {% include links.html %}
