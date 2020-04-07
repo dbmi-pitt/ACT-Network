@@ -53,7 +53,7 @@ Installation instructions for the current ontology can be found [here](https://p
 * [ACT ETL Quick Reference](https://pitt.box.com/s/eg528mhbwb20fnp5mntgf5une8rv7zcp)
 
 ## Data Harmonization
-Outputs and work products from the Data Harmonization Workgroup can be found [here](/ACT-test/data_harmonization.html).
+Outputs and work products from the Data Harmonization Workgroup can be found [here](/ACT-Network/data_harmonization.html).
 
 ## Ontology Archive
 Archived ontology documentation can be found in [this repository](https://pitt.box.com/s/puou2vkwy371gv2mfypadjplymb14gvd).
