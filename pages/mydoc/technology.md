@@ -14,7 +14,7 @@ Click [here](https://drive.google.com/drive/folders/1KvYe29HsT416m_hMzi5VIUwpfWI
 The ACT Network hosted a breakout session at the 2019 AMIA Conference in Washington DC. Slides from this session can be found [here](https://pitt.box.com/s/wajr694f8j052xq8w6v2b01mo1vr2ymx).
 
 ## Mailing List
-Click [here](/ACT-test/tech_list.html) for instructions on how to join or search the ACT technology mailing distribution list.
+Click [here](/ACT-Network/tech_list.html) for instructions on how to join or search the ACT technology mailing distribution list.
 
 ## Meeting Minutes & Agendas
 All meeting minutes and agendas from the technology workgroup can be found [here](https://pitt.box.com/s/fol3lmv4gqeb9xtolhud5hs9wkt3obiw).
