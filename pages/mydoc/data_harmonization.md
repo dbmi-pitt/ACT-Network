@@ -14,7 +14,7 @@ Click [here](https://docs.google.com/spreadsheets/d/1ZTx8K2MTO6N3P5rJ2sPnpojMg4r
 Click [here](https://drive.google.com/drive/folders/1gxmIBywK512JucRjlvMilZJwUfqW9d3Q) to access the workgroup's lab code stats template as originally created by Mayo.
 
 ## Ontology Documents
-All documents and information related to the ACT ontology can be found [here](/ACT-test/ontology.html).
+All documents and information related to the ACT ontology can be found [here](/ACT-Network/ontology.html).
 
 ## ACT Common Data Model
 The ACT Common Data Model can be found [here](https://pitt.box.com/s/nuoueqadkcuhq6oqxbg3rsmg0kcaqcyo).
