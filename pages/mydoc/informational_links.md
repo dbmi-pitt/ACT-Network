@@ -24,6 +24,6 @@ folder: mydoc
 * [**About i2b2**](https://www.i2b2.org/about/)
     * [i2b2 ACT Wiki](https://community.i2b2.org/wiki/display/ACT/Accrual+to+Clinical+Trials+i2b2+Community+Wiki)
 * [**Local Site Functions**](https://docs.google.com/spreadsheets/d/1-PkGdRpKXdT_NjzBMmUMBtD7DACM00bpgFei4c3W4GQ/edit?usp=sharing)
-* [**Need Help?**](/ACT-test/help.html)
+* [**Need Help?**](/ACT-Network/help.html)
 
 {% include links.html %}
