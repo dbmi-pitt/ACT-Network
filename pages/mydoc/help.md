@@ -15,7 +15,7 @@ The ACT Network uses a single user/site access model. One primary account from e
 Please visit the [National ACT Network page](https://www.actnetwork.us/national) to browse how-to resources, frequently asked questions, and other additional information about ACT.
 
 ## Technology Listserv
-The ACT technology distribution mailing list is routinely used for both those looking to share and gather information. Click [here](/ACT-test/tech_list.html) for instructions on how to join and/or search the archived technology listserv. 
+The ACT technology distribution mailing list is routinely used for both those looking to share and gather information. Click [here](/ACT-Network/tech_list.html) for instructions on how to join and/or search the archived technology listserv. 
 
 ## Key Contacts
 All key contacts for the ACT Network can be found [here](/ACT-Network/contacts.html). 
