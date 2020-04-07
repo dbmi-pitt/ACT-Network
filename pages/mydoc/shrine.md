@@ -34,6 +34,6 @@ Click [here](https://open.med.harvard.edu/wiki/display/SHRINE/Troubleshooting) t
 Click [here](https://open.med.harvard.edu/wiki/pages/viewpage.action?pageId=18677799) to access the SHRINE community and support Wiki.
 
 ### Additional Help
-Additional help resources, including the ACT Jira page, listserv, and key contacts can be found [here](/ACT-test/help.html).
+Additional help resources, including the ACT Jira page, listserv, and key contacts can be found [here](/ACT-Network/help.html).
 
 {% include links.html %}
