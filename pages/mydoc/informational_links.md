@@ -25,11 +25,11 @@ folder: mydoc
   * [**ACT Information Session (October 2019)**](https://vimeo.com/373214480)
 
 * **Technology & Ontology Information**
-* [**ACT Ontology V2.0.1 Summary**](https://www.actnetwork.us/Global/FileLib/PDFs/ACT_ONTOLOGY_V2.0.1_final.pdf)
-* [**About SHRINE**](https://catalyst.harvard.edu/services/shrine/)
-    * [SHRINE 2.0 Summary](https://www.actnetwork.us/Global/FileLib/PDFs/SHRINE_2_0_update_summary.pdf)
-* [**About i2b2**](https://www.i2b2.org/about/)
-    * [i2b2 ACT Wiki](https://community.i2b2.org/wiki/display/ACT/Accrual+to+Clinical+Trials+i2b2+Community+Wiki)
+  * [**ACT Ontology V2.0.1 Summary**](https://www.actnetwork.us/Global/FileLib/PDFs/ACT_ONTOLOGY_V2.0.1_final.pdf)
+  * [**About SHRINE**](https://catalyst.harvard.edu/services/shrine/)
+      * [SHRINE 2.0 Summary](https://www.actnetwork.us/Global/FileLib/PDFs/SHRINE_2_0_update_summary.pdf)
+  * [**About i2b2**](https://www.i2b2.org/about/)
+      * [i2b2 ACT Wiki](https://community.i2b2.org/wiki/display/ACT/Accrual+to+Clinical+Trials+i2b2+Community+Wiki)
 
 * [**Need Help?**](/ACT-Network/help.html)
 
