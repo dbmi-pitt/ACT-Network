@@ -17,12 +17,12 @@ folder: mydoc
 
 ## Technology Stacks
 ### SHRINE
-All files related to SHRINE, including installation and upgrade files and instructions, documentation, and release notes can be found [here](/ACT-test/shrine.html).
+All files related to SHRINE, including installation and upgrade files and instructions, documentation, and release notes can be found [here](/ACT-Network/shrine.html).
 
 ### i2b2
-All files related to i2b2, including installation and upgrade files and instructions, documentation, and release notes can be found [here](/ACT-test/i2b2.html).
+All files related to i2b2, including installation and upgrade files and instructions, documentation, and release notes can be found [here](/ACT-Network/i2b2.html).
 
 ## Ontology
-All ontology files, information, and documentation can be found [here](/ACT-test/ontology.html).
+All ontology files, information, and documentation can be found [here](/ACT-Network/ontology.html).
 
 {% include links.html %}
