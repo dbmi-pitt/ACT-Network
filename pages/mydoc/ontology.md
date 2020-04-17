@@ -47,6 +47,9 @@ All of the ontology installation files can be found in [this repository](https:/
 
 Installation instructions for the current ontology can be found [here](https://pitt.box.com/s/jf2mupczvclzzxtmfvdd6pn1bytg1z1v).
 
+## COVID-19 Ontology
+Links to the COVID-19 ontology and other information related to the ACT Network's COVID-19 project can be found [here](https://dbmi-pitt.github.io/ACT-Network/test.html#covid-19-ontology).
+
 ## Current Ontology Documentation
 * [ACT Common Data Model ACT Common Data Model V1.7](https://pitt.box.com/s/nuoueqadkcuhq6oqxbg3rsmg0kcaqcyo)
 * [ACT SHRINE Query Ontology Specification ACT SHRINE Query Ontology Specification](https://pitt.box.com/s/ovkqhwhg6hhqv83hqp522wix0hsysr2k) 
