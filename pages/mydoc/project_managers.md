@@ -27,7 +27,7 @@ A link to the folder containing all the regulatory documentation can be found [h
 * NCATS Non-Human Subjects Research Activity
 
 ## Helpful Resources
-### Act Onboarding Project
+### ACT Onboarding Project
 All onboarding sites are asked to keep their information up to date in the [ACT Onboarding JIRA Project](https://actnetwork.atlassian.net/projects/AOB/board). This project is used to monitor sites' statuses on the various technical and administrative tasks required to successfully onboard to the network. Sites are asked to update their information on a bi-weekly basis and create a ticket for any issues encountered.
 
 
