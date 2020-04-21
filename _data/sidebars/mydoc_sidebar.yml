@@ -76,8 +76,16 @@ entries:
       output: web, pdf
 
     - title: Test
-      url: /test.html
       output: web, pdf
+      subfolderitems:
+
+        - title: Test Network Info
+          url: /test.html
+          output: web
+          
+        - title: COVID-19 Work
+          url: /covid.html
+          output: web
 
     - title: Pre-Stage
       url: /prestage.html
