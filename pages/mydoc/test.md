@@ -17,9 +17,9 @@ folder: mydoc
 
 
 ## Staging Network Information 
-**Hostname:** shrine-act.hms.harvard.edu  
+**Hostname:** shrine-act-test.hms.harvard.edu   
 
-**IP:** 134.174.149.152
+**IP:** 134.174.149.247
  
 Port 6443 
 
