@@ -16,10 +16,7 @@ SQLServer flavored DDl and insert statements as provided by Barbara Benoit can b
 Please refer to this [JIRA Ticket](https://actnetwork.atlassian.net/projects/ACT/issues/ACT-396?filter=addedrecently&orderby=created%20DESC) to replace SHRINE's existing tomcat/webapps/shrine-api/shrine-webclient/index.html. This change add a link to a web page tracking status of cCOVID-19 data available to help researchers interpret the numbers they are seeing.
 
 ## COVID-19 Documentation
-* [ACT Test Network: COVID-19 Pilot](https://docs.google.com/spreadsheets/d/1gqDP6TBzweU23dwF9EPcmXHsfXtBwaHzprifHjSzEC8/edit?usp=sharing)
-* [ACT Test Network Information](https://docs.google.com/spreadsheets/d/1Z1pi00LZQz51tILvOncrgV4kOD1O2XygKjQyI-7_U4k/edit?usp=sharing)
-* [ACT Acceptance Smoke Test](https://docs.google.com/spreadsheets/d/1clyoQsDC_OHStZtPZz87I1aIUvEnmyvjIJuNu5HYrGs/edit?usp=sharing)
-* [Site Characterization Info](https://docs.google.com/spreadsheets/d/1dbCGPXfIh89BpT4ZMeuQ0YfHjKq7uRGOazCjzOedg2c/edit?usp=sharing)
+A folder containing all the ACT COVID-19 Network documentation can be found [here](https://drive.google.com/open?id=1TetKe3JFxpPCjN0DvV7xssZEhCV8_Zu4). If you do not have editing access to this folder and would like to request it, please email Elaina Sendro to be given proper permissions. 
 
 ## Need Help?
 If you are having any issues with the ontology, please email Michele Morris. 
