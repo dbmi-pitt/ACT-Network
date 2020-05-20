@@ -16,10 +16,10 @@ SQLServer flavored DDl and insert statements as provided by Barbara Benoit can b
 Please refer to this [JIRA Ticket](https://actnetwork.atlassian.net/projects/ACT/issues/ACT-396?filter=addedrecently&orderby=created%20DESC) to replace SHRINE's existing tomcat/webapps/shrine-api/shrine-webclient/index.html. This change add a link to a web page tracking status of cCOVID-19 data available to help researchers interpret the numbers they are seeing.
 
 ## COVID-19 Documentation
-A folder containing all the ACT COVID-19 Network documentation can be found [here](https://drive.google.com/open?id=1TetKe3JFxpPCjN0DvV7xssZEhCV8_Zu4). If you do not have editing access to this folder and would like to request it, please email Elaina Sendro to be given proper permissions. 
+A folder containing all the ACT COVID-19 Network documentation can be found [here](https://drive.google.com/open?id=1TetKe3JFxpPCjN0DvV7xssZEhCV8_Zu4). If you do not have editing access to this folder and would like to request it, please email Elaina Sendro at <esendro@chartis.com> to be given proper permissions. 
 
 ## Need Help?
-If you are having any issues with the ontology, please email Michele Morris. 
+If you are having any issues with the ontology, please email Michele Morris, <mim18@pitt.edu>.
 
 
 {% include links.html %}
