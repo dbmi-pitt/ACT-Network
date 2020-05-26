@@ -18,11 +18,7 @@ folder: mydoc
   * [**Local Site Contacts**](https://www.actnetwork.us/national/act-local-landing-pages-46EU-1434P4.html)
   * [**Local Site Functions**](https://docs.google.com/spreadsheets/d/1-PkGdRpKXdT_NjzBMmUMBtD7DACM00bpgFei4c3W4GQ/edit?usp=sharing)
 
-* **ACT Informational Webinars**
-  * [**Informational Webinar Session 1 (June 2018)**](https://www.youtube.com/watch?v=NMJG9_Vi0PE&feature=youtu.be)
-  * [**Informational Webinar Session 2 (July 2018)**](https://www.youtube.com/watch?v=OtX7ECRW_VY&feature=youtu.be)
-  * [**End of Year Webinar (December 2018)**](https://www.youtube.com/watch?v=UKMIQyYRl_w&feature=youtu.be)
-  * [**ACT Information Session (October 2019)**](https://vimeo.com/373214480)
+* [**ACT Informational Webinars**](https://dbmi-pitt.github.io/ACT-Network/trainings.html#act-informational-webinars)
 
 * **Technology & Ontology Information**
   * [**ACT Ontology V2.0.1 Summary**](https://www.actnetwork.us/Global/FileLib/PDFs/ACT_ONTOLOGY_V2.0.1_final.pdf)
