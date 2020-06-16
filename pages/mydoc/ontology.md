@@ -12,6 +12,8 @@ The ACT Network is currently using ACT Ontology 2.0.1, which rolled out through 
 
 A summary overview of the changes made can be found [here](https://www.actnetwork.us/Global/FileLib/PDFs/ACT_ONTOLOGY_V2.0.1_final.pdf).
 
+Currently the ACT Network is upgrading to ACT Ontology 3.0.0, which includes the new COVID-19 ontology. This is additive to the current production ontology. All information related to this ontology can be found [here](https://github.com/shyamvis/ACT-COVID-Ontology).
+
 ### **Release Notes**
 **NEW Ontologies**
 * CPT Procedures - UMLS 2018AA (Remember only sites that have valid CPT licenses are permitted to use CPT ontology) 
