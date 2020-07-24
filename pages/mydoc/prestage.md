@@ -1,7 +1,7 @@
 ---
 title: Pre-Staging Tier Resources
 keywords: Wave 5, pre-staging, pre-stage, onboarding
-last_updated: January 2, 2020
+last_updated: July 24, 2020
 summary: "Below is the most up-to-date information regarding current software, network, and technology requirements for pre-staging/onboarding sites."
 sidebar: mydoc_sidebar
 permalink: prestage.html
@@ -9,7 +9,7 @@ folder: mydoc
 ---
 
 ## Current Software Versions
-**i2b2 Version:** 1.7.09c or 1.7.11 
+**i2b2 Version:** 1.7.11 or 11.7.12A
 
 **SHRINE Version:** 2.0 as of October 2019 
 
