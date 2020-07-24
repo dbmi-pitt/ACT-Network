@@ -9,7 +9,7 @@ folder: mydoc
 ---
 
 ## Current Software Versions
-**i2b2 Version:** 1.7.12 as of July 15, 2020
+**i2b2 Version:** 1.7.12A as of July 15, 2020
 
 **SHRINE Version:** 2.0 as of October 2019 
 
