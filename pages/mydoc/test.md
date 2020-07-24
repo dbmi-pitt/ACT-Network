@@ -1,7 +1,7 @@
 ---
 title: Test Tier Resources
 keywords: test, covid, covid19, covid-19
-last_updated: January 2, 2020
+last_updated: July 24, 2020
 summary: "Below is the most up-to-date information regarding current software, network, and technology requirements for sites with a Test node. It also includes additional documentation for the Test nodes, including the participant identification use case."
 sidebar: mydoc_sidebar
 permalink: test.html
@@ -9,9 +9,9 @@ folder: mydoc
 ---
 
 ## Current Software Versions
-**i2b2 Version:** 1.7.09c or 1.7.11 
+**i2b2 Version:** 1.7.12A as of July 2020 
 
-**SHRINE Version:** 2.0 As of October 2019 
+**SHRINE Version:** 2.0 as of October 2019 
 
 **Ontology Version:** 2.0.1 as of March 27, 2019 
 
