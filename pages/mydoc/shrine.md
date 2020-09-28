@@ -1,8 +1,8 @@
 ---
 title: SHRINE Resources
-last_updated: January 2, 2020
-keywords: SHRINE
-summary: "In fall of 2019, the ACT Network transitioned to from SHRINE 1.25.4 to SHRINE 2.0.0, which includes some foundational changes enabling greater insight into network status and performance, as well as a few small changes to the web client. Specifically, SHRINE 2.0 offers improved query status descriptions, helping users better understand and track the progress of their query."
+last_updated: September 28, 2020
+keywords: SHRINE, 3.0
+summary: "In September 2020, the ACT Network transitioned to from SHRINE 2.0.0 to SHRINE 3.0.0, which includes a new webclient. Researchers can expect a more streamlined interface design that is more intuitive for novice end users, although the legacy webclient will remain available."
 sidebar: mydoc_sidebar
 permalink: shrine.html
 folder: mydoc
@@ -17,14 +17,29 @@ If your sites has a co-branded ACT website (those of you who have launched ACT t
 
 The link to this page on the national website is found [here](https://www.actnetwork.us/national/tech-resources-46EU-1429JJ.html) for reference. An instruction sheet for making this customization can be found [here](https://pitt.box.com/s/yfadiyhvhakd2tkka9geo2h4c9kiynq4).
 
-## Upgrading to SHRINE 2.0.0
-Please click [here](https://open.med.harvard.edu/wiki/pages/viewpage.action?pageId=71434469) for files and instructions on how to upgrade to SHRINE 2.0.0. This guide assumes that i2b2 version 1.7.09c and SHRINE version 1.25.4 are installed and operational. **Please note that SHRINE 2.0.0 is not backwards-compatible with any previous version!**
+## SHRINE 3.0 Information
+Over the past few months, the ACT Network started implementing major upgrades to greatly enhance the researcher’s experience in conducting queries for cohort  discovery, one of which was the release of SHRINE 3.0. 
 
-## Installing SHRINE 2.0.0
-Please click [here](https://open.med.harvard.edu/wiki/display/SHRINE/SHRINE+Installation+Guide) for files and instructions on how to install SHRINE 2.0.0 for sites who do not currently use the SHRINE server. 
+With this new webclient, researchers can expect:
+* More streamlined and lightweight interface design
+*	More intuitive for new end users
+*	Preferred pathway for end users, although the legacy webclient will remain available for the time being
+*	Sites are just starting to implement the new webclient. Please reach out to your local administrator to learn when your institution will adopt the new webclient. 
+
+The below screenshots provide a preview of what to expect with the new interface:
+
+## Upgrading to SHRINE 3.0.0
+The upgrade process consists of the following 3 steps:
+ 
+1. Follow the instructions [here](https://open.catalyst.harvard.edu/wiki/pages/viewpage.action?pageId=77042767) to upgrade SHRINE from 2.0.0 to 3.0.0
+2. Complete the [“Site Data Details”](https://open.catalyst.harvard.edu/wiki/pages/viewpage.action?pageId=77040288) configuration steps
+3. Update the [Google Workbook](https://docs.google.com/spreadsheets/d/12M4mKR0qdvPrruFX5qWCcWHAqPB3B5HGxd12l2bQmJY/edit#gid=1287730364) information for your site to inform us that you have completed the 3.0.0 upgrade.
+
+## Installing SHRINE 3.0.0
+Please click [here](https://open.catalyst.harvard.edu/wiki/display/SHRINE/SHRINE+3.0.0+Installation+Guide) for files and instructions on how to install SHRINE 3.0.0 for sites who do not currently use the SHRINE server. 
 
 ## Release Notes
-Click [here](https://open.med.harvard.edu/wiki/display/SHRINE/2.0.0+Release+Notes) to access the release notes for SHRINE 2.0.0. 
+Click [here](https://open.catalyst.harvard.edu/wiki/display/SHRINE/3.0.0+Release+Notes) to access the release notes for SHRINE 3.0.0. 
 
 ## Support
 ### SHRINE Troubleshooting
