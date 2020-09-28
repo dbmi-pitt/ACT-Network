@@ -1,7 +1,7 @@
 ---
 title: Test Tier Resources
 keywords: test, covid, covid19, covid-19
-last_updated: July 24, 2020
+last_updated: September 28, 2020
 summary: "Below is the most up-to-date information regarding current software, network, and technology requirements for sites with a Test node. It also includes additional documentation for the Test nodes, including the participant identification use case."
 sidebar: mydoc_sidebar
 permalink: test.html
@@ -11,9 +11,9 @@ folder: mydoc
 ## Current Software Versions
 **i2b2 Version:** 1.7.12A as of July 2020 
 
-**SHRINE Version:** 2.0 as of October 2019 
+**SHRINE Version:** 3.0 as of August 2020
 
-**Ontology Version:** 2.0.1 as of March 27, 2019 
+**Ontology Version:** 2.0.1 with additive ACT COVID Ontology V3 as of May 2020
 
 
 ## Staging Network Information 
@@ -27,10 +27,7 @@ Port 6443
 These pages contain all available resources for [i2b2](/ACT-Network/i2b2.html) and [SHRINE](/ACT-Network/help.shrine). This includes installation files, upgrade files, documentation, and release notes.
 
 ## Ontology
-All ontology resources (including ontology files, ETL, documentation, and release notes) for ontology V2.0.1 can be found [here](/ACT-Network/ontology.html).
-
-## COVID-19 Work
-Please refer to the [COVID-19 page](/ACT-Network/covid.html) to find information for sites participating in the ACT Network's COVID-19 response. This pages includes technical requirements for participation, site documentation, and a link to th specialized ACT COVID-19 ontology. 
+All ontology resources (including ontology files, ETL, documentation, and release notes) for ontology V2.0.1 and the additive ACT COVID Ontology V3 can be found [here](/ACT-Network/ontology.html).
 
 ## Participant Identification Use Case
 The test network is being asked to complete a use case for participant identification. The use case can be found [here](https://pitt.box.com/s/m77qy7rmby7iwievb16izltwk64i9scx).
