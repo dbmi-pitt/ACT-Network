@@ -1,6 +1,6 @@
 ---
 title: Ontology Resources
-summary: "The ACT Network is currently using ACT Ontology 2.0.1, which rolled out through all active and staging ACT sites to better meet the needs of clinical investigators and CTSA hubs."
+summary: "The ACT Network is currently using ACT Ontology 2.0.1, which rolled out through all active and staging ACT sites to better meet the needs of clinical investigators and CTSA hubs. In June 2020, the ACT COVID Ontology V3 was also released, which contains the new COVID-19 ontology."
 keywords: ontology, ongologies
 sidebar: mydoc_sidebar
 permalink: ontology.html
@@ -12,7 +12,30 @@ The ACT Network is currently using ACT Ontology 2.0.1, which rolled out through 
 
 A summary overview of the changes made can be found [here](https://www.actnetwork.us/Global/FileLib/PDFs/ACT_ONTOLOGY_V2.0.1_final.pdf).
 
-Currently the ACT Network is upgrading to ACT Ontology 3.0.0, which includes the new COVID-19 ontology. This is additive to the current production ontology. All information related to this ontology can be found [here](https://github.com/shyamvis/ACT-COVID-Ontology).
+Currently the ACT Network is upgrading to ACT COVID Ontology V3, which includes the new COVID-19 ontology. This is additive to the current production ontology. All information related to this ontology can be found below.
+
+## COVID Ontology Information
+
+### Technical Requirements for ACT COVID Oncology V3
+The technical requirements for participating in the ACT Network's COVID-19 are as follows:
+*	Twice a week refresh of [COVID subset of patients](https://github.com/shyamvis/covid-phenotyping/blob/master/inclusion-criteria.md) (and more patients if possible)
+*	Addition of the [specialized COVID ontology](https://github.com/shyamvis/covid-phenotyping)
+
+SQLServer flavored DDl and insert statements as provided by Barbara Benoit can be found [here](https://github.com/shyamvis/covid-phenotyping/blob/master/ACT_COVID19_Mart_Ont_SSMS.sql). ETL instructions will be posted on GitHub shortly.
+
+Please refer to this [JIRA Ticket](https://actnetwork.atlassian.net/projects/ACT/issues/ACT-396?filter=addedrecently&orderby=created%20DESC) to replace SHRINE's existing tomcat/webapps/shrine-api/shrine-webclient/index.html. This change add a link to a web page tracking status of cCOVID-19 data available to help researchers interpret the numbers they are seeing.
+
+### ACT COVID Ontology V3 Documentation
+A folder containing all the ACT COVID-19 Network documentation can be found [here](https://drive.google.com/open?id=1TetKe3JFxpPCjN0DvV7xssZEhCV8_Zu4). If you do not have editing access to this folder and would like to request it, please email Elaina Sendro at <esendro@chartis.com> to be given proper permissions. 
+
+### ACT COVID Ontology V3  Instructions
+In order to install this new ontology, please following the following steps:
+*	Install the [ACT COVID ontology v3](https://github.com/shyamvis/ACT-COVID-Ontology) in production (you may also do this in stage, but production is the priority)
+*	Refresh your data to pull in data for new terms 
+*	Start planning for more frequent data refreshes (a web meeting will be scheduled to share tips and recommendations among ACT sites and address questions)
+*  Update your status by adding information on [this Google sheet](https://docs.google.com/spreadsheets/d/12M4mKR0qdvPrruFX5qWCcWHAqPB3B5HGxd12l2bQmJY/edit)
+
+Please document any issues in the [ACT Network JIRA Project](https://actnetwork.atlassian.net/projects/ACT/summary).
 
 ### **Release Notes**
 **NEW Ontologies**
