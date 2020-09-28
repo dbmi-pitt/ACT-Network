@@ -1,7 +1,7 @@
 ---
 title: Ontology Resources
 summary: "The ACT Network is currently using ACT Ontology 2.0.1, which rolled out through all active and staging ACT sites to better meet the needs of clinical investigators and CTSA hubs. In June 2020, the ACT COVID Ontology V3 was also released, which contains the new COVID-19 ontology."
-keywords: ontology, ongologies
+keywords: ontology, ongologies, covid, covid-19, v3
 sidebar: mydoc_sidebar
 permalink: ontology.html
 folder: mydoc
