@@ -9,7 +9,7 @@ folder: mydoc
 
 * **National Project Manager:** Elaina Sendro, <esendro@chartis.com>
 
-* **SHRINE:** Simon Chang, <simon_chang@hms.harvard.edu>
+* **SHRINE:** Andrew Hendrix, <Andrew_Hendrix@hms.harvard.edu>
 
 * **Ontology:** Michele Morris, <mim18@pitt.edu>
 
