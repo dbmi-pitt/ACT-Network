@@ -1,6 +1,6 @@
 ---
 title: SHRINE Resources
-last_updated: September 28, 2020
+last_updated: January 5, 2021
 keywords: SHRINE, 3.0
 summary: "In September 2020, the ACT Network transitioned to from SHRINE 2.0.0 to SHRINE 3.0.0, which includes a new webclient. Researchers can expect a more streamlined interface design that is more intuitive for novice end users, although the legacy webclient will remain available."
 sidebar: mydoc_sidebar
