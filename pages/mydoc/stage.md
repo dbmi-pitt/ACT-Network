@@ -1,7 +1,7 @@
 ---
 title: Stage Tier Resources
 keywords: stage
-last_updated: September 28, 2020
+last_updated: January 5, 2021
 summary: "Below is the most up-to-date information regarding current software, network, and technology requirements for sites with a Staging node."
 sidebar: mydoc_sidebar
 permalink: stage.html
@@ -11,9 +11,9 @@ folder: mydoc
 ## Current Software Versions
 **i2b2 Version:** 1.7.12A as of July 2020
 
-**SHRINE Version:** 2.0 or 3.0 as of September 2020
+**SHRINE Version:** 3.0 as of September 2020 
 
-**Ontology Version:** 2.0.1 as of March 2019 with optional additive ACT COVID Ontology V3 as of June 2020
+**Ontology Version:** 2.0.1 with additional COVID V3 ontology as of July 2020
 
 
 ## Staging Network Information 
