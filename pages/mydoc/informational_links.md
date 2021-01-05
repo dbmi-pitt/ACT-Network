@@ -22,6 +22,7 @@ folder: mydoc
   * [**ACT Ontology V2.0.1 Summary**](https://www.actnetwork.us/Global/FileLib/PDFs/ACT_ONTOLOGY_V2.0.1_final.pdf)
   * [**About SHRINE**](https://catalyst.harvard.edu/services/shrine/)
       * [SHRINE 2.0 Summary](https://www.actnetwork.us/Global/FileLib/PDFs/SHRINE_2_0_update_summary.pdf)
+      * [Additional SHRINE 3.0 Information](https://dbmi-pitt.github.io/ACT-Network/informational_links.html)
   * [**About i2b2**](https://www.i2b2.org/about/)
       * [i2b2 ACT Wiki](https://community.i2b2.org/wiki/display/ACT/Accrual+to+Clinical+Trials+i2b2+Community+Wiki)
       
