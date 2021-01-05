@@ -28,6 +28,10 @@ With this new webclient, researchers can expect:
 
 The below screenshots provide a preview of what to expect with the new interface:
 
+{% include image.html file="SHRINE1.png" alt="SHRINE 3.0" caption=" " %}
+
+{% include image.html file="SHRINE2.png" alt="SHRINE 3.0" caption=" " %}
+
 ## Upgrading to SHRINE 3.0.0
 The upgrade process consists of the following 3 steps:
  
