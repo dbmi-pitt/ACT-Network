@@ -78,10 +78,6 @@ entries:
     - title: Test
       url: /test.html
       output: web, pdf
-          
-    - title: COVID-19 Work
-      url: /covid.html
-      output: web
 
     - title: Pre-Stage
       url: /prestage.html
@@ -106,6 +102,10 @@ entries:
     - title: ETL
       url: /etl.html
       output: web, pdf
+      
+    - title: COVID-19 Work
+      url: /covid.html
+      output: web
 
   - title: Work Groups
     output: web, pdf     
