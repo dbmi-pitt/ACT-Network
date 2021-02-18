@@ -5,6 +5,8 @@ topnav:
   items:
     - title: ACT Website
       external_url: https://www.actnetwork.us/national
+    - title: ACT Next Steps
+      external_url: https://www.actnetwork.us/nextsteps/next-steps-161WS-1720ZK.html
     - title: Submit a Feature Request
       external_url: https://github.com/dbmi-pitt/ACT-Network/issues
     - title: Helpful Resources
