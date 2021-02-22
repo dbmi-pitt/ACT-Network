@@ -8,19 +8,7 @@ permalink: roadmap.html
 folder: mydoc
 ---
 
-| Task          | Site          | Date  |
-| ------------- |:-------------:| :-----:|
-| Release of new ontology    | Stage/Production | Q1 2021 |
-| Upgrade to SHRINE 3.0    | Stage/Production | September 2020 |
-| Upgrade to SHRINE 3.0  | Test | August 2020 |
-| Install ontology V3.0    | Stage/Production | July 2020 |
-| Upgrade to i2b2 1.7.12A    | Stage/Production | Q2 2020 |
-| Upgrade to i2b2 1.7.12A    | Test | Q1 2020 |
-| Connect to Production Hub  | Wave 5      |   Q2 2020 |
-| Complete production readiness tasks | Wave 5      |    Q2 2020 |
-| Complete production technical tasks | Wave 5      |    Q2 2020 |
-| Complete administrative tasks | Wave 5      |    Q2 2020 |
-| Complete stage technical tasks | Wave 5      |    Q1 2020 |
+Please click [here](https://docs.google.com/spreadsheets/d/1cUfWxQw67PQ6OfET2lp4ZUik3ZI8JqKcuXC6r-Mumcw/edit?usp=sharing) to view an overview of the ACT activities, rollouts, and deadlines for Q1 2021.
 
 
 {% include links.html %}
