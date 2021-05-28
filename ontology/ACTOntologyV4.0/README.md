@@ -70,8 +70,8 @@ Added Data Completeness folder with six total patient counts by visit, by patien
 
 ## Visit Details
 - Added new visit types
-- Tele-Health (T)
-- Long Term Care (LTC)
+   - Tele-Health (T)
+   - Long Term Care (LTC)
 - Added Length of Stay equal to 0 days
 - Modification of age at visit to improve performance of query ( Courtesy of Darren Henderson UKy)
 
