@@ -4,10 +4,13 @@
 Added Data Completeness folder with six total patient counts by visit, by patient in patient_dimension, and the equivalent of top level folders for meds, labs, procedures, and diagnosis
 
 ## Social Determinants of Health
-New LOINC hierarchy
+(Courtesy of UAB and USC)
+- New LOINC hierarchy
 
 ## Vital Signs
-New LOINC hierarchy (height, weight, BMI, systolic, diastolic, temperature, heart rate, oxygen saturation)
+(Courtesy of UAB and USC)
+- New LOINC hierarchy (height, weight, BMI, systolic, diastolic, temperature, heart rate, oxygen saturation) (Thanks UAB and USC)
+
 
 ## COVID-19
 - Added new COVID-19 test LOINC codes
@@ -15,7 +18,7 @@ New LOINC hierarchy (height, weight, BMI, systolic, diastolic, temperature, hear
 - Added new COVID-19 related ICD-10-CM and MS-DRG
 - Added new COVID-19 related Vaccine hierarchy including CPT-4, RxNorm, NDC, ICD-10-PCS and CVX codes
 - Added convalescent plasma
-- Added experimental treatment medications including monoclonal antibody treatments ICD-10-PCS
+- Added experimental treatment medications including monoclonal antibody treatments ICD-10-PCS ( Courtesy of Mayo )
 - Corrected mechanical ventilation ICD10 hierarchies - added missing codes
 
 ## Diagnosis 
@@ -45,7 +48,8 @@ New LOINC hierarchy (height, weight, BMI, systolic, diastolic, temperature, hear
 - Removed Dental Procedures *No data in the network.
 
 ## Labs
-### Labs (Small; manually curated)
+### Labs (Small; manually curated) 
+(Courtesy of Mayo and Malar)
 - Added Drug Doses
 - Added Drug/Tox
 - Added 193 common LOINCs
@@ -69,10 +73,39 @@ New LOINC hierarchy (height, weight, BMI, systolic, diastolic, temperature, hear
 - Tele-Health (T)
 - Long Term Care (LTC)
 - Added Length of Stay equal to 0 days
-- Modification of age at visit to improve performance of query
+- Modification of age at visit to improve performance of query ( Courtesy of Darren Henderson UKy)
 
 
 
 
 ## ACT i2b2/OMOP Ontology
 Release Expected May 28, 2021
+
+
+Thanks to all who contributed including the ACT Data Harmonization team:
+- Sendro, Elaina
+- Visweswaran, Shyam
+- Philip_Trevvett
+- Wyatt, Matthew C
+- Vangala, Uma Maheswara Reddy
+- Lin.Woon Tzu, Michael
+- Vodislav, Carmen G.
+- Phillip Reeder
+- Ramkiran Gouripeddi 
+- Wang, Amy Y
+- Curtis Kieler 
+- Daniel Popham
+- Malarkodi Jebathilagam Samayamuthu 
+- Abajian, Mark
+- griffin_weber
+- Cagan, Andrew 
+- Gainer, Vivian S. 
+- Benoit, Barbara
+- Samayamuthu, Malarkodi Jebathilag
+- Zhu, Wenhong
+- Thorson.Stacy
+- Ottmar, Paige
+
+Testers
+- Vallejos, Andrew
+- Henderson, Darren
