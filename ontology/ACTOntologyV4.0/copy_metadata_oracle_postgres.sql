@@ -1,0 +1,16 @@
+create table @i2b2MetadataSchema.ACT_COVID_V4 as select * from @shrineOntSchema.ACT_COVID_V4;
+create table @i2b2MetadataSchema.ACT_CPT4_PX_V4 as select * from @shrineOntSchema.ACT_CPT4_PX_V4;
+create table @i2b2MetadataSchema.ACT_DEM_V4 as select * from @shrineOntSchema.ACT_DEM_V4;
+create table @i2b2MetadataSchema.ACT_HCPCS_PX_V4 as select * from @shrineOntSchema.ACT_HCPCS_PX_V4;
+create table @i2b2MetadataSchema.ACT_ICD10CM_DX_V4 as select * from @shrineOntSchema.ACT_ICD10CM_DX_V4;
+create table @i2b2MetadataSchema.ACT_ICD10PCS_PX_V4 as select * from @shrineOntSchema.ACT_ICD10PCS_PX_V4;
+create table @i2b2MetadataSchema.ACT_ICD10_ICD9_DX_V4 as select * from @shrineOntSchema.ACT_ICD10_ICD9_DX_V4;
+create table @i2b2MetadataSchema.ACT_ICD9CM_DX_V4 as select * from @shrineOntSchema.ACT_ICD9CM_DX_V4;
+create table @i2b2MetadataSchema.ACT_ICD9CM_PX_V4 as select * from @shrineOntSchema.ACT_ICD9CM_PX_V4;
+create table @i2b2MetadataSchema.ACT_LOINC_LAB_PROV_V4 as select * from @shrineOntSchema.ACT_LOINC_LAB_PROV_V4;
+create table @i2b2MetadataSchema.ACT_LOINC_LAB_V4 as select * from @shrineOntSchema.ACT_LOINC_LAB_V4;
+create table @i2b2MetadataSchema.ACT_MED_ALPHA_V4 as select * from @shrineOntSchema.ACT_MED_ALPHA_V4;
+create table @i2b2MetadataSchema.ACT_MED_VA_V4 as select * from @shrineOntSchema.ACT_MED_VA_V4;
+create table @i2b2MetadataSchema.ACT_SDOH_V4 as select * from @shrineOntSchema.ACT_SDOH_V4;
+create table @i2b2MetadataSchema.ACT_VISIT_DETAILS_V4 as select * from @shrineOntSchema.ACT_VISIT_DETAILS_V4;
+create table @i2b2MetadataSchema.ACT_VITAL_SIGNS_V4 as select * from @shrineOntSchema.ACT_VITAL_SIGNS_V4;
