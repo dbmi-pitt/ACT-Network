@@ -1,7 +1,7 @@
 # ACT Ontology V4.0 Installation 
 
 - Installation instructions can be found at https://docs.google.com/document/d/1qCfPRdzkCTJZKXYmSIagY63XZGVnz8Py2HJxPOZtJSs/edit?usp=sharing
-- Files may be downloaded here (if you have GIt LFS installed) otherwise download from the Box https://pitt.box.com/s/kq4opwfbl4nphrf2n9msjo96loap56qt
+- **PLEASE DOWNLOAD FILES FROM BOX - THE GITHUB FILES WILL NO LONGER BE SUPPORTED ** the Box https://pitt.box.com/s/kq4opwfbl4nphrf2n9msjo96loap56qt
 - If using the files from the box you will need the 4 files in the V4 directory plus all files in your format of choice (dsv, sqlserver, postgres, oracle)
 
 
