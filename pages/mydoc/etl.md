@@ -12,6 +12,6 @@ A set of scripts for calculating and populating the c_totalnum field of the meta
 These scripts are written for SQLServer and calculate patient counts across the entire local i2b2 instance. While not required, it is generally recommended that you populate the c_totalnum field for query performance reasons. Be sure to read the README file before running the scripts. These scripts were previously sent via email on Feb 19; the scripts posted above are identical. 
 
 ## Resources
-For EPIC ETL help, please contact Robert Bradford at <robert_bradford@med.unc.edu>.
+For EPIC ETL help, please contact Jeff Klann at <jeff.klann@mgh.harvard.edu>.
 
 {% include links.html %}
