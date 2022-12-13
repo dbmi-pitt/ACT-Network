@@ -7,7 +7,7 @@ permalink: contacts.html
 folder: mydoc
 ---
 
-* **National Project Manager:** Elaina Sendro, <esendro@chartis.com>
+* **National Project Manager:** Elaina Sendro Gano, <esendro@chartis.com>
 
 * **SHRINE:** Andrew Hendrix, <Andrew_Hendrix@hms.harvard.edu>
 
@@ -15,7 +15,7 @@ folder: mydoc
 
 * **Dissemination:**: Lindsay Lennox, <lindsay.lennox@cuanschutz.edu>
 
-* **JIRA:** Paige Ottmar, <pottmar@chartis.com>
+* **JIRA:** Elaina Sendro Gano, <esendro@chartis.com>
 
 {% include links.html %}
 
