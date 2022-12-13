@@ -27,8 +27,8 @@ entries:
       url: /informational_links.html
       output: web, pdf
       
-    - title: Roadmap & Deadlines
-      url: /roadmap.html
+    - title: ENACT Participant Expectations
+      url: /ENACT_participant_expectations.html
       output: web, pdf
 
     - title: Trainings & Demonstrations
