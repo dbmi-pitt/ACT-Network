@@ -1,18 +1,18 @@
 ---
 title: System Administrator Resources
 keywords: system administrator, technology, i2b2, shrine
-last_updated: January 5, 2021
+last_updated: December 12, 2022
 sidebar: mydoc_sidebar
 permalink: system_administrators.html
 folder: mydoc
 ---
 
 ## Current Software Versions
-**i2b2 Version:** 1.7.12A as of July 2020
+**i2b2 Version:** 1.7.12A as of June 2021 (with 1.7.13 also accepted)
 
-**SHRINE Version:** 3.0 as of September 2020 
+**SHRINE Version:** 3.1 as of June 2021 
 
-**Ontology Version:** 2.0.1 with additional COVID V3 ontology as of July 2020 
+**Ontology Version:** 4.0 as of June 2021
 
 
 ## Technology Stacks
