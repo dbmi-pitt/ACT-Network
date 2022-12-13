@@ -10,7 +10,7 @@ folder: mydoc
 ## ACT Pre-Production Checklist
 Prior to being connected to the ACT Production tier, sites connected to the Stage Tier must confirm the following items in the [ACT Pre-Production Checklist](https://docs.google.com/spreadsheets/d/1gss08lLkYKdiS0H9yjAhbn8-r0TvS2JYba3yyignboY/edit?usp=sharing). It is expected that sites will continue to cross items off as they are completed.
 
-## Implementation Tasks
+## Implementation Tasks (Previous guidance for reference only - dates no longer relevant)
 The [Implementation Task Timeline](https://docs.google.com/spreadsheets/d/1UHdPfeOHFoAjAo7tHVsEMLQ7lMXhaYbieaK2ptagSXQ/edit?usp=sharing) highlights the various tasks that must be completed for onboarding, their suggested site functions, and estimated time to completion. This also includes an introduction to the smoke test query components and possible results.
 
 ## Governance Documentation
