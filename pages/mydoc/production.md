@@ -9,11 +9,11 @@ folder: mydoc
 ---
 
 ## Current Software Versions
-**i2b2 Version:** 1.7.12A as of July 2020
+**i2b2 Version:** 1.7.12A as of June 2021 (Please note that 1.7.13 is also accepted even though it has not been broadly released to the production network)
 
-**SHRINE Version:** 3.0 as of September 2020
+**SHRINE Version:** 3.1 as of June 2021
 
-**Ontology Version:** 2.0.1 with additive ACT COVID Ontology v3 as of June 2020
+**Ontology Version:** 4.0 June 2021
 
 
 ## Staging Network Information 
@@ -27,7 +27,7 @@ Port 6443
 These pages contain all available resources for [i2b2](/ACT-test/i2b2.html) and [SHRINE](/ACT-Network/shrine.html). This includes installation files, upgrade files, documentation, and release notes.
 
 ## Ontology
-All ontology resources (including ontology files, ETL, documentation, and release notes) for ontology V2.0.1 and the ACT COVID Ontology V3 can be found [here](/ACT-Network/ontology.html).
+All ontology resources (including ontology files, ETL, documentation, and release notes) can be found [here](/ACT-Network/ontology.html).
 
 ## Site Role Resources
 Below are the resources for the various local ACT roles:
