@@ -23,7 +23,7 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: ACT Informational Links
+    - title: ENACT/ACT Informational Links
       url: /informational_links.html
       output: web, pdf
       
@@ -35,7 +35,7 @@ entries:
       url: /trainings.html
       output: web, pdf
  
-    - title: Use Cases
+    - title: Use Cases (ACT)
       url: /use_cases.html
       output: web, pdf
 
