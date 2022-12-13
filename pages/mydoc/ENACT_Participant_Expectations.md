@@ -11,8 +11,8 @@ We are excited to have your continued involvement in the network. Expectations f
 
 ## Node Maintenance ##
 * We expect sites to take one new version of SHRINE, i2b2, and the ACT/ENACT ontology once per year
-> Note that there may be times when versions of the ontology are released more frequently for local use. These versions will be bundled for one upgrade at the network level. We do not plan on requiring more frequent upgrades than once per year.
-> New versions will be decided by the ENACT Network Operations team and tested in the test network before being released to the production network.
+> * Note that there may be times when versions of the ontology are released more frequently for local use. These versions will be bundled for one upgrade at the network level. We do not plan on requiring more frequent upgrades than once per year.
+> * New versions will be decided by the ENACT Network Operations team and tested in the test network before being released to the production network.
 * Sites should refresh their data at least once per month, although more frequently is desired
 * We expect sites to complete minor administrative tasks on an as needed basis, such as informing us of changes to their team and completing brief surveys designed to collect more information on their node
 * In the future, we will also expect sites to participate in data quality efforts. The Data Quality team is looking to automate and streamline this process as much as possible. Details are forthcoming. 
